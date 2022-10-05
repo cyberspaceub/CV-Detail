@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <header>
+   <meta charset="utf-8">
+   <title>UBN-ICT personal site</title>
+ </head>
+ <body>
+   <table cellspacing="20">
+     <tr>
+       <td><img src="IMAGES/Joseph.jpg" alt="Joseph profile pix"></td>
+       <td><h1>Nduenso Andem Ubuo</h1>
+       <p><em>Founder and CEO of <strong><a href="https://www.microsoft.com/en-ng/education">UBN-ICT</a></strong>.</em></p>
+       <p>Computer engineering is a course that integrates several fields of electrical engineering <br> and computer science required to develop computer hardware and software. </p></td>
+     </tr>
+   </table>
+
+   <hr>
+   <h3>OPERATING SYSTEM </h3>
+   <ul>
+     <li>Window operating system from the manufacturer called Microsoft Corporation.</li>
+     <li>Mac Os x operating system from the manufacturer called Apple</li>
+     <li>Linux operating system from its owner called Linus.</li>
+   </ul>
+   <hr>
+   <h3>work experience</h3>
+   <table cellspacing="10">
+     <thead>
+       <tr>
+         <th>Dates</th>
+         <th>work</th>
+       </tr>
+
+     <thead>
+     <tbody>
+
+     <tbody>
+     </tfoot>
+
+     </tfoot>
+     <tr>
+       <td>2011-2013</td>
+       <td>2011-2013 AutoCAD instructor at UBN-ICT</td>
+     </tr>
+     <tr>
+       <td>2010</td>
+       <td>2010 Microsoft Office packages instructor at UBN-ICT</td>
+     </tr>
+     </table>
+</table>
+<hr>
+<h3>Skills</h3>
+<table cellspacing="10">
+  <tr>
+    <td>Computer hardware and software maintenance</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>Web Development</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>AutoCAD</td>
+    <td>⭐⭐⭐⭐</td>
+  </tr>
+</table>
+   <hr>
+   <a href="SOFTWARE ENGINEERING html">SOFTWARE ENGINEERING</a>
+    <a href="Contact_Me.html">CONTACT DETAILS</a>
+ <body>
+<html>
